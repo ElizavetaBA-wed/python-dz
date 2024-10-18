@@ -1,0 +1,11 @@
+#1
+import math
+
+first_point = int(input).splite( )
+second_point = int(input).splite( )
+third_point = int(input()). splite()
+
+def cr (first_point, second_point):
+    print(f'коодинаты первой точки{first_point[0], first_point[1], first_point[-1]}')
+    print(f'коодинаты второй точки{second_point[0], second_point[1], second_point[-1]}')
+    print(f'координаты третьей точки{third_point[0], third_point[1], third_point[-1] }')

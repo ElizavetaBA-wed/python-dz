@@ -5,3 +5,4 @@ if b==0:
 else:
     c = a/b
     print(c)
+    
